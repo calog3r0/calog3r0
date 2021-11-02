@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+This is my old profile.
+
+Please, visit my [new profile](https://github.com/calogxro). ⬅️
+
 <!--
 **calog3r0/calog3r0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
